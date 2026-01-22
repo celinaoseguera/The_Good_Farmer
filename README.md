@@ -1,2 +1,1 @@
-# GAM315_Final_Project
-Game called "The Good Farmer"
+Game called "The Good Farmer". It is a 2D puzzle game created entirely from scratch on Unity. It uses assets from creative commons sources.
