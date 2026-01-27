@@ -1,1 +1,3 @@
 Game called "The Good Farmer". It is a 2D puzzle game created entirely from scratch on Unity. It uses assets from creative commons sources.
+
+The game consists of a tutorial, gameplay and an endstate. The objective is to use seeds to grow crops, gift crops to villagers who request them, receive money in return, then use the money to purchase more seeds from the in-game merchant. The player is meant to cycle through these stages as quickly as they can. A fail state occurs when the user fails to give any given villager their crop within a certain amount of time. Five failures and the game is over.
