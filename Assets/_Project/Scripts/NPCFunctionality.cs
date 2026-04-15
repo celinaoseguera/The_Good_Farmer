@@ -149,6 +149,7 @@ public class NPCFunctionality : MonoBehaviour
         {
             // to offset the failed request time to accommodate for the delay
             // Example change
+            // From Unity change
             randomDelay = UnityEngine.Random.Range(3f, 10f);
             timer -= randomDelay;
                 
