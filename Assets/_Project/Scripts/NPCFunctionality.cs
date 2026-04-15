@@ -148,6 +148,7 @@ public class NPCFunctionality : MonoBehaviour
         if (spawnCountFlag < 2)
         {
             // to offset the failed request time to accommodate for the delay
+            // Example change
             randomDelay = UnityEngine.Random.Range(3f, 10f);
             timer -= randomDelay;
                 
